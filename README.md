@@ -1,0 +1,1 @@
+This is inspired by SketchXAI, a first look at explainability for human sketches. Normally people would build models with CNN for human sketch recognition but here LIME is used with CNN models for a better understanding of how AI makes decisions. 
